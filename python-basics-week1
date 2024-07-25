@@ -1,0 +1,18 @@
+python-basics-week1/
+│
+├── slides/
+│   └── week1_intro_to_python.pdf
+│
+├── code_examples/
+│   ├── hello_world.py
+│   ├── data_types.py
+│   └── basic_operations.py
+│
+├── exercises/
+│   ├── exercise1.py
+│   ├── exercise2.py
+│   └── solutions/
+│       ├── solution1.py
+│       └── solution2.py
+│
+└── README.md
